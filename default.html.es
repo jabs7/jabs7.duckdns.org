@@ -1,0 +1,1 @@
+/Applications/Server.app/Contents/ServerRoot/usr/share/web/locales/es.lproj/default.html
